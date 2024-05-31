@@ -1,0 +1,19 @@
+.navbar {
+  background-color: orange;
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: blue;
+  padding: 5px 10px;
+  border: 1px solid black;
+}
