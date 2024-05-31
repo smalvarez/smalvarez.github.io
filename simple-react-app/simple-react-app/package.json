@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -r git@github.com:smalvarez/smalvarez.github.io.git"
   },
   "eslintConfig": {
     "extends": [
@@ -37,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://smalvarez.github.io/simple-react-app/simple-react-app/public/index.html"
+  "homepage": "https://smalvarez.github.io/smalvarez.github.io"
 }
